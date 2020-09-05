@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Mesh Tool</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on Mesh Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year} Mary Nate, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Getting Started</title>
+        <link>/docs/gettingstarted/</link>
+        <pubDate>Thu, 30 Jan 2020 10:10:56 +0900</pubDate>
+        
+        <guid>/docs/gettingstarted/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>How to</title>
+        <link>/docs/howto/</link>
+        <pubDate>Thu, 30 Jan 2020 16:40:04 +0900</pubDate>
+        
+        <guid>/docs/howto/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Change Logs</title>
+        <link>/docs/changelogs/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/changelogs/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to on Mesh Tool</title>
+    <link>/docs/howto/</link>
+    <description>Recent content in How to on Mesh Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year} Mary Nate, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 16:40:04 +0900</lastBuildDate>
+    
+        <atom:link href="/docs/howto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>How to Apply HotSpot UV</title>
+        <link>/docs/howto/howtohotspot/</link>
+        <pubDate>Thu, 30 Jan 2020 16:40:04 +0900</pubDate>
+        
+        <guid>/docs/howto/howtohotspot/</guid>
+        <description>Add TrimSheet asset Create a TrimSheet asset from selected texture in Content Browser.
+Add HotSpot Rects Double click the TrimSheet asset to open TrimSheet editor.
+Switch to edit mode and add a box
+Select vertex or edges to edit the box to desired shape
+Add more boxes and verify rects been generated automatically
+Apply HotSpot UV Select the TrimSheet asset in content browser, then select faces you want to apply hotspot uv.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

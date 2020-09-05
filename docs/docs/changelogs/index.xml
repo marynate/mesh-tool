@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Change Logs on Mesh Tool</title>
+    <link>/docs/changelogs/</link>
+    <description>Recent content in Change Logs on Mesh Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year} Mary Nate, All Rights Reserved</copyright>
+    
+        <atom:link href="/docs/changelogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>1.1.x</title>
+        <link>/docs/changelogs/1.1/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/changelogs/1.1/</guid>
+        <description>1.1.11  New: Add native Quad support, now quad data is persistent  1.1.10.8 hotfix 4  Fix: Linker error when packaging project wish vs 2017 (unresolved external symbol __CxxFrameHandler4)  1.1.10.8 hotfix 3  Fix: Crash when switching edit mode from Mesh Tool to Mesh Paint (thanks Mariusz.Szaflik) Fix: Can&amp;rsquo;t package project when MeshModelingToolset plugin is enabled (thanks Mariusz.Szaflik)  1.1.10.8 hotfix 2  New: 4.25 support Fix: Global symbol conflict in shipping build (thanks omega)  1.</description>
+      </item>
+      
+      <item>
+        <title>1.0.x</title>
+        <link>/docs/changelogs/1.0/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/changelogs/1.0/</guid>
+        <description>1.0.9.3  Add option to force selected face color render in foreground  1.0.9.2  Fix potential editor crash due to mesh been built twice  1.0.9.1  Fix regression of Assign Material Fix potential editor crash when delete/attach/detach faces Add option to use Ctrl instead of Alt as Multi-Select and Toggle Select key Now StaticMesh&amp;rsquo;s ImportVersion will be updated to latest version before assigning material When in Game View, don&amp;rsquo;t draw vertex/edge/faces selection When creating new plane/cube mesh, don&amp;rsquo;t focus the viewport to it automatically Now new plane/cube mesh will has defaut lightmap uv generated Now proper defautl material will be assigned to new plane/cube mesh and lofted mesh Add 4.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
